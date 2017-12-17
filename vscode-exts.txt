@@ -1,0 +1,12 @@
+NoHomey.theme-realgithub
+davidmart.theme-jsfiddle-like-syntax-vscode
+dbaeumer.vscode-eslint
+formulahendry.auto-close-tag
+formulahendry.code-runner
+jamesmaj.easy-icons
+ms-python.python
+msjsdiag.debugger-for-chrome
+oderwat.indent-rainbow
+skyran.js-jsx-snippets
+vscodevim.vim
+yzhang.markdown-all-in-one
