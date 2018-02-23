@@ -155,6 +155,12 @@ autocmd FileType xml setlocal omnifunc=xmlcomplete#CompleteTags
 
 "== Emmet
 let g:user_emmet_leader_key='<C-e>'
+let g:user_emmet_settings = {
+  \    'variables': {
+  \      'lang': "ja"
+  \    },
+  \   'indentation': '  '
+  \ }
 
 "== CTRL-P
 let g:ctrlp_working_path_mode = 0
