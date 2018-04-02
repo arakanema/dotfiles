@@ -1,0 +1,4 @@
+inoremap <silent> jj <ESC>
+set ignorecase
+set smartcase
+set hlsearch
